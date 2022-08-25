@@ -1,3 +1,6 @@
+# This code COMES WITH ABSOLUTELY NO WARRANTY and is provided for
+# illustrative purposes only.
+
 library(lme4)
 
 postscript("figure2.ps",horizontal=T,paper="letter")
