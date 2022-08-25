@@ -1,3 +1,6 @@
+# This code COMES WITH ABSOLUTELY NO WARRANTY and is provided for
+# illustrative purposes only.
+
 library(survival)
 library(coxme)
 
